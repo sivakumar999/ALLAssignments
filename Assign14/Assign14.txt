@@ -1,0 +1,23 @@
+
+Time Complexity of Bubble Sort:
+	Best-case time complexity: O(n) (when the input array is already sorted).
+	Average-case time complexity: O(n^2).
+	Worst-case time complexity: O(n^2).
+
+Advantages of Bubble Sort:
+	Simple to understand and implement.
+	Requires minimal additional memory space (in-place sorting).
+	Performs well on small datasets or partially sorted arrays.
+	Best-case time complexity is linear (when the array is already sorted).
+
+Disadvantages of Bubble Sort:
+	Inefficient for large datasets due to its quadratic time complexity.
+	Not recommended for practical use on large or unsorted datasets.
+	Performance degrades quickly with an increase in the number of elements.
+
+
+Bubble sort have more swaps,Checks the neighbour element and swap if required	
+
+selection sort have Less swaps compared to bubble sort,Works by repeatedly finding smallest number in array and swapping
+
+Insertion sort have less number of swaps, Transfer an element at one time to construct a sorted array.

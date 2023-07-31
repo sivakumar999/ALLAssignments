@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day2\exercise\exercise\bin\Debug\exercise.exe.config
+M:\Simplilearn\mphasis\day2\exercise\exercise\bin\Debug\exercise.exe
+M:\Simplilearn\mphasis\day2\exercise\exercise\bin\Debug\exercise.pdb
+M:\Simplilearn\mphasis\day2\exercise\exercise\obj\Debug\exercise.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day2\exercise\exercise\obj\Debug\exercise.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day2\exercise\exercise\obj\Debug\exercise.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day2\exercise\exercise\obj\Debug\exercise.exe
+M:\Simplilearn\mphasis\day2\exercise\exercise\obj\Debug\exercise.pdb

@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day4\ConsoleAssin444\ConsoleAssin444\bin\Debug\ConsoleAssin444.exe.config
+M:\Simplilearn\mphasis\day4\ConsoleAssin444\ConsoleAssin444\bin\Debug\ConsoleAssin444.exe
+M:\Simplilearn\mphasis\day4\ConsoleAssin444\ConsoleAssin444\bin\Debug\ConsoleAssin444.pdb
+M:\Simplilearn\mphasis\day4\ConsoleAssin444\ConsoleAssin444\obj\Debug\ConsoleAssin444.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day4\ConsoleAssin444\ConsoleAssin444\obj\Debug\ConsoleAssin444.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day4\ConsoleAssin444\ConsoleAssin444\obj\Debug\ConsoleAssin444.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day4\ConsoleAssin444\ConsoleAssin444\obj\Debug\ConsoleAssin444.exe
+M:\Simplilearn\mphasis\day4\ConsoleAssin444\ConsoleAssin444\obj\Debug\ConsoleAssin444.pdb

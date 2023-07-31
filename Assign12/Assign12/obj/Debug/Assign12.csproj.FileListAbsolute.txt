@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day10\Assign12\Assign12\bin\Debug\Assign12.exe.config
+M:\Simplilearn\mphasis\day10\Assign12\Assign12\bin\Debug\Assign12.exe
+M:\Simplilearn\mphasis\day10\Assign12\Assign12\bin\Debug\Assign12.pdb
+M:\Simplilearn\mphasis\day10\Assign12\Assign12\obj\Debug\Assign12.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day10\Assign12\Assign12\obj\Debug\Assign12.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day10\Assign12\Assign12\obj\Debug\Assign12.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day10\Assign12\Assign12\obj\Debug\Assign12.exe
+M:\Simplilearn\mphasis\day10\Assign12\Assign12\obj\Debug\Assign12.pdb

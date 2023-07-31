@@ -1,0 +1,34 @@
+20 Size array (Quick Sort):
+31 77 82 9 23 97 57 59 35 68 62 31 25 18 53 51 41 28 21 7
+ array After Qucik Sort 20 Size
+7 9 18 21 23 25 28 31 31 35 41 51 53 57 59 62 68 77 82 97
+ArraySize 20 Time Taken 0.4659 milliseconds
+
+Sorted array using merge
+after merge sort 20size
+7 9 18 21 23 25 28 31 31 35 41 51 53 57 59 62 68 77 82 97
+ArraySize 20 Time Taken 0.4465 milliseconds
+-------------------------------------------------------------------------------
+
+30 Size array (Quick Sort):
+31 77 82 9 23 97 57 59 35 68 62 31 25 18 53 51 41 28 21 7 93 94 76 39 96 74 90 31 86 2
+ array After Qucik Sort 30 Size
+2 7 9 18 21 23 25 28 31 31 31 35 39 41 51 53 57 59 62 68 74 76 77 82 86 90 93 94 96 97
+ArraySize 30 Time Taken 0.0046 milliseconds
+
+Sorted array using merge
+after merge sort 30size
+2 7 9 18 21 23 25 28 31 31 31 35 39 41 51 53 57 59 62 68 74 76 77 82 86 90 93 94 96 97
+ArraySize 30 Time Taken 0.0062 milliseconds
+-------------------------------------------------------------------------------
+
+50 Size array (Quick Sort):
+31 77 82 9 23 97 57 59 35 68 62 31 25 18 53 51 41 28 21 7 93 94 76 39 96 74 90 31 86 2 19 72 29 62 72 92 51 18 20 88 97 69 76 60 83 2 42 44 77 13
+ array After Qucik Sort 50 Size
+2 2 7 9 13 18 18 19 20 21 23 25 28 29 31 31 31 35 39 41 42 44 51 51 53 57 59 60 62 62 68 69 72 72 74 76 76 77 77 82 83 86 88 90 92 93 94 96 97 97
+ArraySize 50 Time Taken 0.0087 milliseconds
+
+Sorted array using merge
+after merge sort 50size
+2 2 7 9 13 18 18 19 20 21 23 25 28 29 31 31 31 35 39 41 42 44 51 51 53 57 59 60 62 62 68 69 72 72 74 76 76 77 77 82 83 86 88 90 92 93 94 96 97 97
+ArraySize 50 Time Taken 0.0089 milliseconds
